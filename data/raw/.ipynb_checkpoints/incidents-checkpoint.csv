@@ -1,0 +1,696 @@
+incident_type,collision_type,incident_severity,authorities_contacted,incident_state,number_of_vehicles_involved,policy_number,incident_id
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,687698,INC687698
+Single Vehicle Collision,Front Collision,Major Damage,Police,OH,1,227811,INC227811
+Vehicle Theft,None,Minor Damage,None,NY,1,367455,INC367455
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,104594,INC104594
+Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,3,413978,INC413978
+Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,3,429027,INC429027
+Single Vehicle Collision,Front Collision,Total Loss,Police,WV,1,485665,INC485665
+Single Vehicle Collision,Rear Collision,Total Loss,Other,NC,1,636550,INC636550
+Single Vehicle Collision,Front Collision,Total Loss,Police,NY,1,543610,INC543610
+Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,3,214618,INC214618
+Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,1,644081,INC644081
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,NY,3,558938,INC558938
+Single Vehicle Collision,Side Collision,Total Loss,Police,WV,1,275265,INC275265
+Multi-vehicle Collision,Side Collision,Major Damage,Police,VA,3,143972,INC143972
+Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,431876,INC431876
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,3,285496,INC285496
+Single Vehicle Collision,Rear Collision,Minor Damage,Other,VA,1,736882,INC736882
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,OH,3,699044,INC699044
+Parked Car,None,Minor Damage,Police,PA,1,863236,INC863236
+Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,596785,INC596785
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,SC,4,908616,INC908616
+Multi-vehicle Collision,Front Collision,Total Loss,Police,NY,3,336614,INC336614
+Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,584859,INC584859
+Single Vehicle Collision,Side Collision,Total Loss,Fire,WV,1,990493,INC990493
+Single Vehicle Collision,Front Collision,Major Damage,Other,WV,1,129872,INC129872
+Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,200152,INC200152
+Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,206213,INC206213
+Single Vehicle Collision,Side Collision,Major Damage,Police,WV,1,616337,INC616337
+Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,448961,INC448961
+Single Vehicle Collision,Rear Collision,Total Loss,Other,NC,1,790442,INC790442
+Multi-vehicle Collision,Rear Collision,Total Loss,Fire,NC,3,529112,INC529112
+Multi-vehicle Collision,Front Collision,Major Damage,Fire,WV,3,939631,INC939631
+Vehicle Theft,None,Trivial Damage,Police,NY,1,866931,INC866931
+Single Vehicle Collision,Rear Collision,Total Loss,Other,WV,1,582011,INC582011
+Vehicle Theft,None,Minor Damage,None,WV,1,394975,INC394975
+Parked Car,None,Minor Damage,Police,VA,1,282195,INC282195
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,420810,INC420810
+Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,3,524836,INC524836
+Parked Car,None,Minor Damage,None,VA,1,307195,INC307195
+Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,623648,INC623648
+Multi-vehicle Collision,Rear Collision,Major Damage,Police,NY,3,598554,INC598554
+Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,343161,INC343161
+Multi-vehicle Collision,Rear Collision,Total Loss,Fire,VA,3,132902,INC132902
+Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,1,356590,INC356590
+Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,3,346002,INC346002
+Multi-vehicle Collision,Side Collision,Major Damage,Other,SC,2,486676,INC486676
+Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,1,657045,INC657045
+Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,3,761189,INC761189
+Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,VA,3,175177,INC175177
+Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,SC,3,116700,INC116700
+Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,166264,INC166264
+Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,3,527945,INC527945
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,1,279422,INC279422
+Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,3,484200,INC484200
+Vehicle Theft,None,Trivial Damage,None,NC,1,645258,INC645258
+Vehicle Theft,None,Minor Damage,Police,NY,1,694662,INC694662
+Vehicle Theft,None,Trivial Damage,None,VA,1,960680,INC960680
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,2,498140,INC498140
+Multi-vehicle Collision,Front Collision,Major Damage,Fire,NY,3,498875,INC498875
+Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,3,798177,INC798177
+Parked Car,None,Trivial Damage,None,WV,1,679370,INC679370
+Multi-vehicle Collision,Side Collision,Major Damage,Other,SC,3,958857,INC958857
+Multi-vehicle Collision,Front Collision,Total Loss,Fire,SC,2,686816,INC686816
+Single Vehicle Collision,Side Collision,Major Damage,Police,NY,1,127754,INC127754
+Parked Car,None,Trivial Damage,None,WV,1,918629,INC918629
+Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,3,307447,INC307447
+Vehicle Theft,None,Minor Damage,None,OH,1,992145,INC992145
+Single Vehicle Collision,Side Collision,Major Damage,Fire,VA,1,900628,INC900628
+Multi-vehicle Collision,Rear Collision,Minor Damage,Other,SC,4,235220,INC235220
+Parked Car,None,Trivial Damage,None,WV,1,740019,INC740019
+Vehicle Theft,None,Trivial Damage,None,NC,1,246882,INC246882
+Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,797613,INC797613
+Single Vehicle Collision,Side Collision,Major Damage,Police,WV,1,193442,INC193442
+Parked Car,None,Minor Damage,Police,WV,1,760179,INC760179
+Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,939905,INC939905
+Vehicle Theft,None,Minor Damage,None,WV,1,872814,INC872814
+Multi-vehicle Collision,Rear Collision,Major Damage,Police,VA,3,632627,INC632627
+Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,WV,2,283414,INC283414
+Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,1,163161,INC163161
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NY,3,853360,INC853360
+Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,776860,INC776860
+Single Vehicle Collision,Front Collision,Major Damage,Fire,NC,1,149367,INC149367
+Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,3,395269,INC395269
+Vehicle Theft,None,Minor Damage,None,VA,1,143626,INC143626
+Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,154982,INC154982
+Multi-vehicle Collision,Side Collision,Major Damage,Police,NY,3,330591,INC330591
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,319232,INC319232
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,531640,INC531640
+Single Vehicle Collision,Side Collision,Minor Damage,Fire,SC,1,368050,INC368050
+Single Vehicle Collision,Front Collision,Major Damage,Ambulance,VA,1,155724,INC155724
+Multi-vehicle Collision,Front Collision,Total Loss,Other,NC,4,824540,INC824540
+Parked Car,None,Minor Damage,Police,PA,1,428230,INC428230
+Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,1,517240,INC517240
+Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,3,469874,INC469874
+Multi-vehicle Collision,Front Collision,Major Damage,Other,WV,3,620215,INC620215
+Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NC,3,618659,INC618659
+Single Vehicle Collision,Side Collision,Total Loss,Police,WV,1,649082,INC649082
+Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,1,437573,INC437573
+Single Vehicle Collision,Rear Collision,Major Damage,Police,NY,1,964657,INC964657
+Vehicle Theft,None,Minor Damage,Police,VA,1,932502,INC932502
+Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,3,434507,INC434507
+Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NC,3,935277,INC935277
+Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,682387,INC682387
+Vehicle Theft,None,Trivial Damage,None,SC,1,456604,INC456604
+Parked Car,None,Minor Damage,None,SC,1,139872,INC139872
+Single Vehicle Collision,Front Collision,Major Damage,Police,NC,1,515050,INC515050
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,NC,3,795686,INC795686
+Single Vehicle Collision,Rear Collision,Major Damage,Other,SC,1,119513,INC119513
+Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,203914,INC203914
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,3,565157,INC565157
+Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,3,904191,INC904191
+Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,3,419510,INC419510
+Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,3,575000,INC575000
+Single Vehicle Collision,Front Collision,Major Damage,Police,NY,1,120485,INC120485
+Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,WV,3,589749,INC589749
+Parked Car,None,Minor Damage,Police,VA,1,454086,INC454086
+Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,1,346940,INC346940
+Multi-vehicle Collision,Rear Collision,Total Loss,Fire,PA,3,985436,INC985436
+Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,237418,INC237418
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,WV,1,335780,INC335780
+Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,491392,INC491392
+Parked Car,None,Trivial Damage,Police,SC,1,140880,INC140880
+Parked Car,None,Minor Damage,None,NY,1,962591,INC962591
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,922565,INC922565
+Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,PA,1,288580,INC288580
+Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,3,154280,INC154280
+Vehicle Theft,None,Trivial Damage,None,WV,1,477177,INC477177
+Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,OH,1,914815,INC914815
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,249048,INC249048
+Single Vehicle Collision,Front Collision,Total Loss,Other,WV,1,144323,INC144323
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,3,125324,INC125324
+Single Vehicle Collision,Side Collision,Minor Damage,Police,SC,1,398102,INC398102
+Single Vehicle Collision,Side Collision,Total Loss,Police,VA,1,514065,INC514065
+Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,1,922167,INC922167
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,WV,3,524230,INC524230
+Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,VA,1,438817,INC438817
+Parked Car,None,Minor Damage,None,SC,1,293794,INC293794
+Vehicle Theft,None,Minor Damage,Police,VA,1,882920,INC882920
+Multi-vehicle Collision,Side Collision,Total Loss,Fire,NC,2,212580,INC212580
+Single Vehicle Collision,Front Collision,Major Damage,Ambulance,NY,1,630226,INC630226
+Vehicle Theft,None,Minor Damage,Police,SC,1,171254,INC171254
+Vehicle Theft,None,Trivial Damage,Police,NY,1,247116,INC247116
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,WV,1,505969,INC505969
+Parked Car,None,Trivial Damage,Police,NY,1,653864,INC653864
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,586367,INC586367
+Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,650026,INC650026
+Single Vehicle Collision,Rear Collision,Total Loss,Fire,SC,1,547744,INC547744
+Multi-vehicle Collision,Side Collision,Major Damage,Police,VA,3,598124,INC598124
+Parked Car,None,Trivial Damage,Police,WV,1,739447,INC739447
+Vehicle Theft,None,Minor Damage,Police,NC,1,427484,INC427484
+Vehicle Theft,None,Trivial Damage,None,OH,1,218684,INC218684
+Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,3,565564,INC565564
+Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,3,509928,INC509928
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,1,593390,INC593390
+Vehicle Theft,None,Trivial Damage,None,NC,1,970607,INC970607
+Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,3,529398,INC529398
+Single Vehicle Collision,Front Collision,Major Damage,Other,NY,1,940942,INC940942
+Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,1,442677,INC442677
+Single Vehicle Collision,Side Collision,Total Loss,Fire,NY,1,365364,INC365364
+Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,114839,INC114839
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,3,872734,INC872734
+Single Vehicle Collision,Front Collision,Total Loss,Ambulance,NY,1,267885,INC267885
+Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,2,740505,INC740505
+Single Vehicle Collision,Front Collision,Major Damage,Other,NY,1,629663,INC629663
+Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,405533,INC405533
+Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,4,511621,INC511621
+Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,3,492745,INC492745
+Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,280709,INC280709
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,898573,INC898573
+Single Vehicle Collision,Front Collision,Major Damage,Other,VA,1,600845,INC600845
+Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,3,629918,INC629918
+Vehicle Theft,None,Trivial Damage,None,PA,1,208298,INC208298
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,1,513099,INC513099
+Parked Car,None,Minor Damage,None,SC,1,326322,INC326322
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,1,146138,INC146138
+Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,2,336047,INC336047
+Vehicle Theft,None,Trivial Damage,Police,WV,1,118137,INC118137
+Single Vehicle Collision,Side Collision,Major Damage,Fire,OH,1,212674,INC212674
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,3,737593,INC737593
+Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,3,812025,INC812025
+Single Vehicle Collision,Side Collision,Major Damage,Police,SC,1,168151,INC168151
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,843227,INC843227
+Parked Car,None,Trivial Damage,None,SC,1,283925,INC283925
+Single Vehicle Collision,Front Collision,Major Damage,Police,NC,1,475588,INC475588
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NY,3,751905,INC751905
+Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,3,226725,INC226725
+Vehicle Theft,None,Trivial Damage,Police,NC,1,395572,INC395572
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,PA,3,277767,INC277767
+Multi-vehicle Collision,Front Collision,Total Loss,Fire,SC,3,842618,INC842618
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,VA,3,577810,INC577810
+Parked Car,None,Minor Damage,None,NY,1,873114,INC873114
+Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,522506,INC522506
+Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,3,367595,INC367595
+Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,3,586104,INC586104
+Single Vehicle Collision,Rear Collision,Minor Damage,Other,PA,1,424862,INC424862
+Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,3,356768,INC356768
+Vehicle Theft,None,Trivial Damage,Police,NY,1,779075,INC779075
+Vehicle Theft,None,Minor Damage,Police,SC,1,799501,INC799501
+Single Vehicle Collision,Rear Collision,Major Damage,Police,WV,1,987905,INC987905
+Single Vehicle Collision,Front Collision,Total Loss,Other,VA,1,830414,INC830414
+Vehicle Theft,None,Trivial Damage,None,SC,1,786957,INC786957
+Parked Car,None,Minor Damage,Police,VA,1,448642,INC448642
+Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,1,526039,INC526039
+Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,OH,3,444422,INC444422
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,3,689500,INC689500
+Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,1,806081,INC806081
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NC,4,384618,INC384618
+Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,1,756459,INC756459
+Multi-vehicle Collision,Front Collision,Minor Damage,Police,PA,3,655787,INC655787
+Parked Car,None,Trivial Damage,Police,SC,1,419954,INC419954
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,PA,2,515698,INC515698
+Vehicle Theft,None,Trivial Damage,Police,SC,1,132871,INC132871
+Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,3,714929,INC714929
+Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,3,297816,INC297816
+Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,615047,INC615047
+Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,1,235869,INC235869
+Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,3,931625,INC931625
+Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,3,371635,INC371635
+Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,427199,INC427199
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,3,261315,INC261315
+Single Vehicle Collision,Side Collision,Total Loss,Other,SC,1,278091,INC278091
+Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,153154,INC153154
+Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,515217,INC515217
+Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,3,351741,INC351741
+Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,VA,3,403737,INC403737
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,162004,INC162004
+Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,740384,INC740384
+Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,876714,INC876714
+Single Vehicle Collision,Front Collision,Total Loss,Police,WV,1,576723,INC576723
+Multi-vehicle Collision,Rear Collision,Total Loss,Police,PA,3,391003,INC391003
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,VA,2,225865,INC225865
+Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,3,890328,INC890328
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,803294,INC803294
+Single Vehicle Collision,Front Collision,Major Damage,Other,WV,1,414519,INC414519
+Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,1,818413,INC818413
+Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,487356,INC487356
+Single Vehicle Collision,Side Collision,Total Loss,Fire,NC,1,406567,INC406567
+Multi-vehicle Collision,Side Collision,Minor Damage,Fire,SC,3,935442,INC935442
+Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,106873,INC106873
+Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,563878,INC563878
+Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,1,337677,INC337677
+Single Vehicle Collision,Rear Collision,Major Damage,Police,NY,1,445973,INC445973
+Vehicle Theft,None,Minor Damage,None,WV,1,156694,INC156694
+Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,1,421940,INC421940
+Single Vehicle Collision,Side Collision,Minor Damage,Police,VA,1,613226,INC613226
+Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,804410,INC804410
+Single Vehicle Collision,Front Collision,Total Loss,Other,VA,1,553565,INC553565
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NC,3,701521,INC701521
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,VA,1,360770,INC360770
+Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,1,958785,INC958785
+Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,797934,INC797934
+Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,3,435784,INC435784
+Single Vehicle Collision,Side Collision,Major Damage,Ambulance,SC,1,563837,INC563837
+Single Vehicle Collision,Side Collision,Total Loss,Other,SC,1,200827,INC200827
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,OH,3,533941,INC533941
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,3,265026,INC265026
+Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,3,566720,INC566720
+Parked Car,None,Minor Damage,Police,SC,1,832746,INC832746
+Parked Car,None,Minor Damage,None,NC,1,386690,INC386690
+Vehicle Theft,None,Trivial Damage,None,SC,1,979285,INC979285
+Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,1,594722,INC594722
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,WV,4,369048,INC369048
+Multi-vehicle Collision,Front Collision,Major Damage,Other,NC,3,514424,INC514424
+Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,2,954191,INC954191
+Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,150181,INC150181
+Multi-vehicle Collision,Side Collision,Minor Damage,Police,SC,4,457244,INC457244
+Multi-vehicle Collision,Front Collision,Total Loss,Other,NY,3,206667,INC206667
+Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,1,745200,INC745200
+Multi-vehicle Collision,Front Collision,Major Damage,Other,VA,3,347984,INC347984
+Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,626074,INC626074
+Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,1,218109,INC218109
+Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,999435,INC999435
+Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,500384,INC500384
+Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,903785,INC903785
+Single Vehicle Collision,Side Collision,Major Damage,Ambulance,WV,1,873859,INC873859
+Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,204294,INC204294
+Multi-vehicle Collision,Side Collision,Total Loss,Fire,NY,3,751612,INC751612
+Multi-vehicle Collision,Rear Collision,Total Loss,Fire,NY,3,876680,INC876680
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,OH,4,121439,INC121439
+Vehicle Theft,None,Minor Damage,None,SC,1,411289,INC411289
+Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,538466,INC538466
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,1,932097,INC932097
+Vehicle Theft,None,Trivial Damage,Police,WV,1,463727,INC463727
+Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,2,936638,INC936638
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NY,3,944102,INC944102
+Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NC,1,689901,INC689901
+Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,1,901083,INC901083
+Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,396224,INC396224
+Multi-vehicle Collision,Side Collision,Total Loss,Police,VA,3,596298,INC596298
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,OH,1,253005,INC253005
+Vehicle Theft,None,Trivial Damage,None,NC,1,985924,INC985924
+Parked Car,None,Minor Damage,None,WV,1,631565,INC631565
+Parked Car,None,Trivial Damage,Police,SC,1,630998,INC630998
+Multi-vehicle Collision,Front Collision,Minor Damage,Fire,NY,3,926665,INC926665
+Multi-vehicle Collision,Front Collision,Major Damage,Fire,PA,3,302669,INC302669
+Vehicle Theft,None,Minor Damage,None,NC,1,620020,INC620020
+Single Vehicle Collision,Front Collision,Total Loss,Other,WV,1,439828,INC439828
+Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,971295,INC971295
+Vehicle Theft,None,Trivial Damage,Police,NC,1,936543,INC936543
+Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,1,501692,INC501692
+Single Vehicle Collision,Front Collision,Major Damage,Other,WV,1,355085,INC355085
+Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,651948,INC651948
+Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,4,424358,INC424358
+Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,131478,INC131478
+Single Vehicle Collision,Side Collision,Minor Damage,Police,NC,1,268833,INC268833
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NC,3,287489,INC287489
+Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,808153,INC808153
+Multi-vehicle Collision,Side Collision,Total Loss,Other,VA,3,497347,INC497347
+Single Vehicle Collision,Front Collision,Major Damage,Police,NC,1,439660,INC439660
+Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,847123,INC847123
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,1,172307,INC172307
+Parked Car,None,Trivial Damage,Police,NC,1,903203,INC903203
+Vehicle Theft,None,Trivial Damage,Police,WV,1,253085,INC253085
+Single Vehicle Collision,Rear Collision,Total Loss,Fire,NY,1,492224,INC492224
+Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,1,107181,INC107181
+Parked Car,None,Minor Damage,None,NC,1,855186,INC855186
+Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,1,373935,INC373935
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,1,993840,INC993840
+Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,327856,INC327856
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,4,506333,INC506333
+Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,1,263159,INC263159
+Single Vehicle Collision,Side Collision,Total Loss,Fire,SC,1,372912,INC372912
+Parked Car,None,Trivial Damage,None,NY,1,552788,INC552788
+Multi-vehicle Collision,Rear Collision,Total Loss,Other,NY,3,722747,INC722747
+Single Vehicle Collision,Side Collision,Minor Damage,Other,NY,1,248467,INC248467
+Multi-vehicle Collision,Front Collision,Minor Damage,Police,WV,3,955953,INC955953
+Vehicle Theft,None,Minor Damage,Police,NY,1,910622,INC910622
+Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,1,137675,INC137675
+Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,1,413192,INC413192
+Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,1,247801,INC247801
+Multi-vehicle Collision,Front Collision,Major Damage,Police,SC,3,431283,INC431283
+Multi-vehicle Collision,Front Collision,Total Loss,Other,SC,3,149467,INC149467
+Single Vehicle Collision,Rear Collision,Major Damage,Police,VA,1,758740,INC758740
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,3,628337,INC628337
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,3,574637,INC574637
+Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,373600,INC373600
+Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NC,3,930032,INC930032
+Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,WV,3,484321,INC484321
+Vehicle Theft,None,Trivial Damage,None,SC,1,795847,INC795847
+Multi-vehicle Collision,Side Collision,Total Loss,Police,NC,3,792673,INC792673
+Single Vehicle Collision,Rear Collision,Major Damage,Other,SC,1,662256,INC662256
+Vehicle Theft,None,Minor Damage,Police,NC,1,714738,INC714738
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,976645,INC976645
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,PA,1,918037,INC918037
+Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,1,836272,INC836272
+Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,167231,INC167231
+Single Vehicle Collision,Rear Collision,Total Loss,Fire,VA,1,743330,INC743330
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,807369,INC807369
+Single Vehicle Collision,Side Collision,Total Loss,Other,SC,1,735307,INC735307
+Vehicle Theft,None,Minor Damage,None,WV,1,585324,INC585324
+Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,3,498759,INC498759
+Single Vehicle Collision,Rear Collision,Minor Damage,Police,NY,1,203250,INC203250
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,OH,3,430794,INC430794
+Single Vehicle Collision,Rear Collision,Minor Damage,Other,SC,1,156636,INC156636
+Vehicle Theft,None,Trivial Damage,Police,NY,1,284143,INC284143
+Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,4,740518,INC740518
+Single Vehicle Collision,Side Collision,Minor Damage,Other,NC,1,599262,INC599262
+Single Vehicle Collision,Side Collision,Major Damage,Police,WV,1,493161,INC493161
+Single Vehicle Collision,Side Collision,Major Damage,Other,WV,1,320251,INC320251
+Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,231127,INC231127
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,491484,INC491484
+Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,925128,INC925128
+Multi-vehicle Collision,Front Collision,Total Loss,Fire,NY,3,265093,INC265093
+Multi-vehicle Collision,Rear Collision,Total Loss,Police,NY,3,267808,INC267808
+Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,1,116735,INC116735
+Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,PA,3,215534,INC215534
+Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,NY,1,232854,INC232854
+Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,538955,INC538955
+Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,3,243226,INC243226
+Vehicle Theft,None,Trivial Damage,Police,NY,1,582480,INC582480
+Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,1,924318,INC924318
+Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,SC,4,726880,INC726880
+Parked Car,None,Minor Damage,Police,NC,1,246705,INC246705
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,3,164988,INC164988
+Vehicle Theft,None,Trivial Damage,Police,SC,1,729534,INC729534
+Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,505014,INC505014
+Single Vehicle Collision,Front Collision,Major Damage,Police,WV,1,920826,INC920826
+Single Vehicle Collision,Front Collision,Minor Damage,Police,SC,1,534982,INC534982
+Single Vehicle Collision,Front Collision,Major Damage,Ambulance,SC,1,110408,INC110408
+Multi-vehicle Collision,Front Collision,Total Loss,Other,VA,3,283052,INC283052
+Multi-vehicle Collision,Rear Collision,Total Loss,Fire,WV,3,382394,INC382394
+Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,876699,INC876699
+Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,3,379882,INC379882
+Parked Car,None,Minor Damage,None,VA,1,852002,INC852002
+Single Vehicle Collision,Front Collision,Total Loss,Fire,SC,1,372891,INC372891
+Single Vehicle Collision,Front Collision,Major Damage,Other,VA,1,689034,INC689034
+Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,3,421092,INC421092
+Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,1,811042,INC811042
+Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,SC,3,788502,INC788502
+Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NC,3,627486,INC627486
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,498842,INC498842
+Vehicle Theft,None,Minor Damage,Police,SC,1,550294,INC550294
+Parked Car,None,Trivial Damage,Police,NC,1,328387,INC328387
+Single Vehicle Collision,Rear Collision,Major Damage,Other,NY,1,385932,INC385932
+Vehicle Theft,None,Trivial Damage,Police,WV,1,618682,INC618682
+Vehicle Theft,None,Minor Damage,Police,NC,1,550930,INC550930
+Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,998192,INC998192
+Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,3,663938,INC663938
+Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,756870,INC756870
+Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,919875,INC919875
+Single Vehicle Collision,Rear Collision,Minor Damage,Police,NY,1,315631,INC315631
+Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,556415,INC556415
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,250249,INC250249
+Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,SC,3,403776,INC403776
+Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,976908,INC976908
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,3,361829,INC361829
+Single Vehicle Collision,Front Collision,Total Loss,Other,SC,1,439049,INC439049
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,SC,3,378588,INC378588
+Multi-vehicle Collision,Rear Collision,Total Loss,Police,WV,2,794731,INC794731
+Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,1,641934,INC641934
+Single Vehicle Collision,Front Collision,Total Loss,Other,NC,1,113516,INC113516
+Multi-vehicle Collision,Side Collision,Major Damage,Other,NC,4,425631,INC425631
+Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,3,512894,INC512894
+Parked Car,None,Trivial Damage,Police,WV,1,633090,INC633090
+Vehicle Theft,None,Trivial Damage,Police,WV,1,290162,INC290162
+Single Vehicle Collision,Front Collision,Major Damage,Fire,NY,1,911429,INC911429
+Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,2,106186,INC106186
+Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,PA,3,311783,INC311783
+Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,1,528385,INC528385
+Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,1,228403,INC228403
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,3,497929,INC497929
+Parked Car,None,Trivial Damage,Police,WV,1,710741,INC710741
+Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,507545,INC507545
+Multi-vehicle Collision,Front Collision,Major Damage,Police,WV,3,485642,INC485642
+Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,VA,1,796375,INC796375
+Single Vehicle Collision,Front Collision,Minor Damage,Other,NC,1,171183,INC171183
+Vehicle Theft,None,Trivial Damage,Police,WV,1,714784,INC714784
+Single Vehicle Collision,Rear Collision,Minor Damage,Other,NY,1,996850,INC996850
+Single Vehicle Collision,Side Collision,Total Loss,Ambulance,SC,1,284834,INC284834
+Parked Car,None,Minor Damage,Police,NY,1,830878,INC830878
+Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,407958,INC407958
+Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,3,832300,INC832300
+Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,1,655356,INC655356
+Multi-vehicle Collision,Front Collision,Minor Damage,Police,SC,3,831053,INC831053
+Multi-vehicle Collision,Side Collision,Total Loss,Other,WV,3,893853,INC893853
+Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,831479,INC831479
+Single Vehicle Collision,Side Collision,Minor Damage,Police,NY,1,326289,INC326289
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,VA,1,779156,INC779156
+Parked Car,None,Minor Damage,None,SC,1,856153,INC856153
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,4,521694,INC521694
+Parked Car,None,Trivial Damage,Police,WV,1,136520,INC136520
+Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,2,912665,INC912665
+Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,2,952300,INC952300
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,VA,1,322609,INC322609
+Single Vehicle Collision,Side Collision,Major Damage,Police,WV,1,431583,INC431583
+Parked Car,None,Trivial Damage,None,SC,1,155912,INC155912
+Vehicle Theft,None,Minor Damage,Police,WV,1,110143,INC110143
+Vehicle Theft,None,Trivial Damage,Police,WV,1,808544,INC808544
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NC,3,409074,INC409074
+Multi-vehicle Collision,Side Collision,Minor Damage,Fire,VA,2,824728,INC824728
+Single Vehicle Collision,Side Collision,Total Loss,Police,NY,1,606037,INC606037
+Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,1,111874,INC111874
+Single Vehicle Collision,Side Collision,Major Damage,Police,NC,1,439844,INC439844
+Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,463513,INC463513
+Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NY,3,607351,INC607351
+Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,1,682754,INC682754
+Parked Car,None,Trivial Damage,None,NY,1,757352,INC757352
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,3,526296,INC526296
+Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,3,658816,INC658816
+Multi-vehicle Collision,Front Collision,Major Damage,Other,SC,3,913337,INC913337
+Multi-vehicle Collision,Side Collision,Minor Damage,Police,NY,3,488464,INC488464
+Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,480094,INC480094
+Single Vehicle Collision,Side Collision,Major Damage,Other,WV,1,263108,INC263108
+Vehicle Theft,None,Trivial Damage,Police,SC,1,298412,INC298412
+Multi-vehicle Collision,Front Collision,Minor Damage,Other,NC,3,261905,INC261905
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NC,1,674485,INC674485
+Multi-vehicle Collision,Front Collision,Total Loss,Police,SC,3,991480,INC991480
+Single Vehicle Collision,Side Collision,Major Damage,Ambulance,VA,1,804219,INC804219
+Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,3,483088,INC483088
+Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,NY,3,100804,INC100804
+Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,1,941807,INC941807
+Single Vehicle Collision,Front Collision,Total Loss,Ambulance,WV,1,593466,INC593466
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,3,437442,INC437442
+Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,1,794951,INC794951
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,SC,1,687755,INC687755
+Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,3,757644,INC757644
+Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,1,998865,INC998865
+Vehicle Theft,None,Trivial Damage,None,VA,1,944953,INC944953
+Vehicle Theft,None,Trivial Damage,Police,SC,1,386429,INC386429
+Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,3,749325,INC749325
+Multi-vehicle Collision,Side Collision,Minor Damage,Police,NC,3,774303,INC774303
+Parked Car,None,Trivial Damage,Police,NC,1,719989,INC719989
+Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,NC,4,444035,INC444035
+Single Vehicle Collision,Front Collision,Major Damage,Ambulance,SC,1,431478,INC431478
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,1,797634,INC797634
+Parked Car,None,Trivial Damage,None,NY,1,284836,INC284836
+Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,885789,INC885789
+Single Vehicle Collision,Side Collision,Major Damage,Police,SC,1,287436,INC287436
+Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,496067,INC496067
+Single Vehicle Collision,Front Collision,Major Damage,Police,WV,1,206004,INC206004
+Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,469426,INC469426
+Multi-vehicle Collision,Rear Collision,Total Loss,Other,WV,3,654974,INC654974
+Vehicle Theft,None,Trivial Damage,Police,WV,1,943425,INC943425
+Single Vehicle Collision,Rear Collision,Total Loss,Police,WV,1,641845,INC641845
+Single Vehicle Collision,Rear Collision,Major Damage,Other,VA,1,794534,INC794534
+Vehicle Theft,None,Trivial Damage,Police,SC,1,357808,INC357808
+Multi-vehicle Collision,Front Collision,Total Loss,Police,VA,3,536052,INC536052
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NY,4,790225,INC790225
+Parked Car,None,Minor Damage,None,NY,1,587498,INC587498
+Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,SC,3,639027,INC639027
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NY,3,217899,INC217899
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,SC,1,458829,INC458829
+Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NY,1,626208,INC626208
+Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,SC,1,283267,INC283267
+Single Vehicle Collision,Side Collision,Major Damage,Ambulance,NC,1,442494,INC442494
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,NC,1,520179,INC520179
+Single Vehicle Collision,Front Collision,Major Damage,Fire,SC,1,607974,INC607974
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,NC,3,465065,INC465065
+Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,WV,3,447226,INC447226
+Single Vehicle Collision,Front Collision,Minor Damage,Other,NY,1,831668,INC831668
+Vehicle Theft,None,Trivial Damage,Police,PA,1,922937,INC922937
+Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,640474,INC640474
+Parked Car,None,Trivial Damage,None,NY,1,153298,INC153298
+Single Vehicle Collision,Side Collision,Major Damage,Ambulance,WV,1,334749,INC334749
+Parked Car,None,Minor Damage,Police,OH,1,221283,INC221283
+Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,961496,INC961496
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,VA,3,804751,INC804751
+Parked Car,None,Minor Damage,None,NC,1,369226,INC369226
+Single Vehicle Collision,Side Collision,Major Damage,Fire,VA,1,713172,INC713172
+Single Vehicle Collision,Front Collision,Major Damage,Fire,WV,1,621756,INC621756
+Single Vehicle Collision,Side Collision,Major Damage,Ambulance,VA,1,947598,INC947598
+Single Vehicle Collision,Front Collision,Total Loss,Ambulance,SC,1,658002,INC658002
+Single Vehicle Collision,Rear Collision,Total Loss,Fire,WV,1,374545,INC374545
+Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,NC,3,180286,INC180286
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,662088,INC662088
+Vehicle Theft,None,Minor Damage,None,WV,1,884365,INC884365
+Single Vehicle Collision,Rear Collision,Minor Damage,Other,NC,1,507452,INC507452
+Multi-vehicle Collision,Side Collision,Major Damage,Other,WV,3,990624,INC990624
+Multi-vehicle Collision,Front Collision,Major Damage,Other,SC,3,892148,INC892148
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,NC,3,605100,INC605100
+Multi-vehicle Collision,Side Collision,Total Loss,Fire,WV,3,143109,INC143109
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,3,769602,INC769602
+Vehicle Theft,None,Minor Damage,Police,WV,1,973546,INC973546
+Single Vehicle Collision,Side Collision,Minor Damage,Fire,NY,1,608039,INC608039
+Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NC,4,250162,INC250162
+Multi-vehicle Collision,Side Collision,Major Damage,Police,WV,3,938634,INC938634
+Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,1,482495,INC482495
+Single Vehicle Collision,Rear Collision,Total Loss,Fire,SC,1,796005,INC796005
+Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,1,910604,INC910604
+Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,1,327488,INC327488
+Multi-vehicle Collision,Side Collision,Minor Damage,Other,NY,3,715202,INC715202
+Multi-vehicle Collision,Rear Collision,Major Damage,Police,SC,3,648852,INC648852
+Multi-vehicle Collision,Rear Collision,Major Damage,Other,NY,3,516959,INC516959
+Multi-vehicle Collision,Front Collision,Major Damage,Fire,SC,3,984456,INC984456
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,801331,INC801331
+Single Vehicle Collision,Rear Collision,Minor Damage,Other,VA,1,259792,INC259792
+Single Vehicle Collision,Side Collision,Minor Damage,Fire,VA,1,362407,INC362407
+Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,WV,3,179538,INC179538
+Multi-vehicle Collision,Side Collision,Minor Damage,Police,WV,4,265437,INC265437
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,921851,INC921851
+Multi-vehicle Collision,Front Collision,Total Loss,Police,WV,3,192524,INC192524
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NC,3,338070,INC338070
+Single Vehicle Collision,Front Collision,Total Loss,Fire,WV,1,865607,INC865607
+Vehicle Theft,None,Minor Damage,None,NY,1,728491,INC728491
+Parked Car,None,Trivial Damage,None,NY,1,553436,INC553436
+Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,NY,3,463237,INC463237
+Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,NY,4,753452,INC753452
+Multi-vehicle Collision,Front Collision,Minor Damage,Fire,SC,3,920554,INC920554
+Single Vehicle Collision,Front Collision,Major Damage,Fire,OH,1,594783,INC594783
+Parked Car,None,Trivial Damage,None,SC,1,607259,INC607259
+Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,1,979336,INC979336
+Multi-vehicle Collision,Rear Collision,Total Loss,Police,VA,3,865201,INC865201
+Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NY,1,140977,INC140977
+Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,787351,INC787351
+Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,NY,1,728025,INC728025
+Single Vehicle Collision,Side Collision,Minor Damage,Fire,NC,1,804608,INC804608
+Single Vehicle Collision,Side Collision,Major Damage,Fire,NY,1,718829,INC718829
+Single Vehicle Collision,Rear Collision,Minor Damage,Police,SC,1,331170,INC331170
+Single Vehicle Collision,Front Collision,Total Loss,Police,NY,1,910365,INC910365
+Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,NC,1,379268,INC379268
+Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,135400,INC135400
+Single Vehicle Collision,Side Collision,Major Damage,Fire,SC,1,798579,INC798579
+Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,1,322613,INC322613
+Multi-vehicle Collision,Side Collision,Total Loss,Other,NY,3,871305,INC871305
+Vehicle Theft,None,Minor Damage,None,WV,1,488037,INC488037
+Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,VA,1,485813,INC485813
+Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,VA,3,907113,INC907113
+Single Vehicle Collision,Rear Collision,Total Loss,Police,SC,1,833321,INC833321
+Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,4,521592,INC521592
+Single Vehicle Collision,Rear Collision,Major Damage,Other,SC,1,254837,INC254837
+Vehicle Theft,None,Trivial Damage,Police,WV,1,634499,INC634499
+Single Vehicle Collision,Side Collision,Minor Damage,Other,SC,1,574707,INC574707
+Vehicle Theft,None,Trivial Damage,None,VA,1,476839,INC476839
+Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,3,149601,INC149601
+Single Vehicle Collision,Front Collision,Major Damage,Police,NC,1,500639,INC500639
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,NY,1,907012,INC907012
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,866805,INC866805
+Multi-vehicle Collision,Side Collision,Total Loss,Other,NC,3,951863,INC951863
+Vehicle Theft,None,Minor Damage,Police,SC,1,684653,INC684653
+Vehicle Theft,None,Trivial Damage,None,NC,1,326180,INC326180
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,SC,3,620075,INC620075
+Single Vehicle Collision,Rear Collision,Major Damage,Police,SC,1,965187,INC965187
+Parked Car,None,Trivial Damage,None,SC,1,516182,INC516182
+Multi-vehicle Collision,Front Collision,Major Damage,Other,NY,3,264221,INC264221
+Multi-vehicle Collision,Side Collision,Minor Damage,Police,VA,3,602704,INC602704
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,SC,3,672416,INC672416
+Single Vehicle Collision,Side Collision,Total Loss,Fire,VA,1,545506,INC545506
+Multi-vehicle Collision,Side Collision,Minor Damage,Fire,NY,3,777533,INC777533
+Parked Car,None,Trivial Damage,Police,NC,1,369781,INC369781
+Multi-vehicle Collision,Side Collision,Total Loss,Police,NY,3,990998,INC990998
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,WV,1,331683,INC331683
+Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,364055,INC364055
+Multi-vehicle Collision,Rear Collision,Total Loss,Fire,SC,3,521854,INC521854
+Multi-vehicle Collision,Side Collision,Minor Damage,Fire,WV,3,737252,INC737252
+Multi-vehicle Collision,Side Collision,Minor Damage,Other,SC,3,898519,INC898519
+Multi-vehicle Collision,Side Collision,Total Loss,Other,SC,3,957816,INC957816
+Multi-vehicle Collision,Side Collision,Minor Damage,Other,NY,3,489618,INC489618
+Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,WV,1,717044,INC717044
+Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,3,101421,INC101421
+Single Vehicle Collision,Front Collision,Total Loss,Fire,WV,1,793948,INC793948
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,1,737483,INC737483
+Multi-vehicle Collision,Front Collision,Minor Damage,Other,SC,3,664732,INC664732
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,NY,3,219028,INC219028
+Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,WV,1,130156,INC130156
+Vehicle Theft,None,Trivial Damage,Police,WV,1,599031,INC599031
+Multi-vehicle Collision,Rear Collision,Major Damage,Fire,SC,3,985446,INC985446
+Single Vehicle Collision,Rear Collision,Total Loss,Police,NY,1,258265,INC258265
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,WV,3,569714,INC569714
+Single Vehicle Collision,Front Collision,Total Loss,Fire,SC,1,556538,INC556538
+Parked Car,None,Minor Damage,None,VA,1,669501,INC669501
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,VA,3,753005,INC753005
+Vehicle Theft,None,Trivial Damage,None,WV,1,330119,INC330119
+Vehicle Theft,None,Minor Damage,None,NC,1,164464,INC164464
+Multi-vehicle Collision,Front Collision,Major Damage,Fire,WV,3,231508,INC231508
+Parked Car,None,Trivial Damage,None,SC,1,272910,INC272910
+Single Vehicle Collision,Rear Collision,Major Damage,Police,WV,1,950542,INC950542
+Vehicle Theft,None,Minor Damage,None,NC,1,291544,INC291544
+Single Vehicle Collision,Side Collision,Total Loss,Other,NY,1,388616,INC388616
+Single Vehicle Collision,Side Collision,Total Loss,Police,NY,1,577992,INC577992
+Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,491170,INC491170
+Multi-vehicle Collision,Side Collision,Total Loss,Other,VA,3,175553,INC175553
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,VA,3,439341,INC439341
+Multi-vehicle Collision,Front Collision,Minor Damage,Fire,WV,3,868031,INC868031
+Multi-vehicle Collision,Rear Collision,Total Loss,Other,SC,3,744557,INC744557
+Single Vehicle Collision,Side Collision,Minor Damage,Police,PA,1,159536,INC159536
+Multi-vehicle Collision,Rear Collision,Major Damage,Police,NC,3,155604,INC155604
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,1,991553,INC991553
+Vehicle Theft,None,Trivial Damage,None,NY,1,727443,INC727443
+Single Vehicle Collision,Side Collision,Major Damage,Other,NY,1,378587,INC378587
+Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,NY,3,420948,INC420948
+Multi-vehicle Collision,Rear Collision,Minor Damage,Police,NY,3,457188,INC457188
+Multi-vehicle Collision,Rear Collision,Minor Damage,Other,NY,3,987524,INC987524
+Single Vehicle Collision,Rear Collision,Total Loss,Other,SC,1,524215,INC524215
+Vehicle Theft,None,Minor Damage,Police,VA,1,398484,INC398484
+Single Vehicle Collision,Front Collision,Total Loss,Fire,NY,1,752504,INC752504
+Single Vehicle Collision,Front Collision,Major Damage,Other,NY,1,449263,INC449263
+Vehicle Theft,None,Trivial Damage,Police,VA,1,844007,INC844007
+Multi-vehicle Collision,Side Collision,Total Loss,Fire,PA,3,607687,INC607687
+Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,NY,3,291902,INC291902
+Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,VA,3,149839,INC149839
+Single Vehicle Collision,Front Collision,Minor Damage,Police,NY,1,643226,INC643226
+Single Vehicle Collision,Front Collision,Total Loss,Police,VA,1,535879,INC535879
+Single Vehicle Collision,Front Collision,Major Damage,Other,NY,1,746630,INC746630
+Parked Car,None,Minor Damage,None,NY,1,720356,INC720356
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,NY,3,724752,INC724752
+Parked Car,None,Minor Damage,None,SC,1,148498,INC148498
+Multi-vehicle Collision,Front Collision,Minor Damage,Police,NC,3,110122,INC110122
+Single Vehicle Collision,Side Collision,Total Loss,Police,SC,1,281388,INC281388
+Multi-vehicle Collision,Front Collision,Total Loss,Police,SC,3,728600,INC728600
+Single Vehicle Collision,Side Collision,Minor Damage,Other,WV,1,531160,INC531160
+Single Vehicle Collision,Front Collision,Total Loss,Police,WV,1,889003,INC889003
+Multi-vehicle Collision,Side Collision,Total Loss,Police,WV,3,193213,INC193213
+Parked Car,None,Minor Damage,None,SC,1,557218,INC557218
+Single Vehicle Collision,Side Collision,Total Loss,Ambulance,NC,1,125591,INC125591
+Vehicle Theft,None,Minor Damage,None,WV,1,791425,INC791425
+Multi-vehicle Collision,Side Collision,Total Loss,Police,SC,3,433663,INC433663
+Single Vehicle Collision,Rear Collision,Minor Damage,Police,WV,1,471938,INC471938
+Multi-vehicle Collision,Front Collision,Major Damage,Fire,NC,3,564654,INC564654
+Vehicle Theft,None,Minor Damage,Police,VA,1,645723,INC645723
+Vehicle Theft,None,Trivial Damage,Police,VA,1,437960,INC437960
+Single Vehicle Collision,Rear Collision,Total Loss,Police,VA,1,649800,INC649800
+Vehicle Theft,None,Minor Damage,Police,WV,1,390256,INC390256
+Single Vehicle Collision,Front Collision,Minor Damage,Other,SC,1,488597,INC488597
+Single Vehicle Collision,Rear Collision,Major Damage,Police,NC,1,931901,INC931901
+Vehicle Theft,None,Trivial Damage,Police,SC,1,844062,INC844062
+Single Vehicle Collision,Front Collision,Total Loss,Fire,VA,1,732169,INC732169
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,NY,1,221854,INC221854
+Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,SC,1,776950,INC776950
+Multi-vehicle Collision,Side Collision,Major Damage,Fire,WV,3,889764,INC889764
+Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,WV,3,929306,INC929306
+Single Vehicle Collision,Front Collision,Total Loss,Other,NY,1,515457,INC515457
+Single Vehicle Collision,Rear Collision,Total Loss,Other,NY,1,556270,INC556270
+Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,OH,1,908935,INC908935
+Multi-vehicle Collision,Front Collision,Total Loss,Police,NY,3,525862,INC525862
+Multi-vehicle Collision,Front Collision,Minor Damage,Police,NY,3,490514,INC490514
+Single Vehicle Collision,Side Collision,Major Damage,Other,WV,1,669809,INC669809
+Single Vehicle Collision,Rear Collision,Minor Damage,Other,WV,1,182953,INC182953
+Single Vehicle Collision,Rear Collision,Minor Damage,Fire,NY,1,591269,INC591269
+Multi-vehicle Collision,Rear Collision,Total Loss,Police,SC,3,550127,INC550127
+Parked Car,None,Minor Damage,None,SC,1,681486,INC681486
+Single Vehicle Collision,Front Collision,Minor Damage,Fire,NC,1,941851,INC941851
+Single Vehicle Collision,Rear Collision,Major Damage,Fire,SC,1,186934,INC186934
+Multi-vehicle Collision,Side Collision,Minor Damage,Police,NC,3,918516,INC918516
+Single Vehicle Collision,Rear Collision,Major Damage,Other,NY,1,533940,INC533940
+Parked Car,None,Minor Damage,Police,WV,1,556080,INC556080
