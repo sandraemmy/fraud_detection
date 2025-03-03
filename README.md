@@ -40,5 +40,8 @@ Difficulty in importing data into an SQL database, which highlighted the importa
 - Presentation: https://docs.google.com/presentation/d/1vKB9qjN7wstwF9-iy4f10cAQeBCf86lfRtjVNStXnLc/edit#slide=id.p
 
 
-![image](https://github.com/user-attachments/assets/5b676b5b-15bd-44f1-80c9-e4b59b4580ab)
+- ![image](https://github.com/user-attachments/assets/5b676b5b-15bd-44f1-80c9-e4b59b4580ab)
+- ![image](https://github.com/user-attachments/assets/e246ec11-270d-44e5-a56f-9b342bdf3922)
+
+
 
