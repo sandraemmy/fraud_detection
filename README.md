@@ -38,3 +38,7 @@ Difficulty in importing data into an SQL database, which highlighted the importa
 - Database Schema: https://drawsql.app/teams/ironhack-30/diagrams/fraud-detection-in-insurance-claim
 - Project Management: https://miro.com/app/board/uXjVLk1X-cM=/
 - Presentation: https://docs.google.com/presentation/d/1vKB9qjN7wstwF9-iy4f10cAQeBCf86lfRtjVNStXnLc/edit#slide=id.p
+
+
+![image](https://github.com/user-attachments/assets/5b676b5b-15bd-44f1-80c9-e4b59b4580ab)
+
