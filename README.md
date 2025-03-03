@@ -1,7 +1,7 @@
 ## ﻿Fraud Detection in Insurance Claims  ##
-# MEMBERS  
-- PRINCE BOATENG 
-- SANDRA EMMANUELLE NGOING 
+# Group Mambers
+- Prince Boateng
+- Sandra Ngoing  
 
 ## Project Overview ##
 The project focuses on fraud detection and risk assessment in insurance claims. The primary objectives are:
