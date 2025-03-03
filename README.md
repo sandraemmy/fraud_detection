@@ -42,6 +42,8 @@ Difficulty in importing data into an SQL database, which highlighted the importa
 
 - ![image](https://github.com/user-attachments/assets/5b676b5b-15bd-44f1-80c9-e4b59b4580ab)
 - ![image](https://github.com/user-attachments/assets/e246ec11-270d-44e5-a56f-9b342bdf3922)
+- ![image](https://github.com/user-attachments/assets/a36ae776-7d97-4812-b9d6-4e2e1968e404)
+
 
 
 
